@@ -1,10 +1,10 @@
+
+/* This is knap-sack problem solved using greedy technique. */
+
+
 #include <bits/stdc++.h>
 using namespace std ;
 vector<pair < float, int> > v ; 
-
-// bool greater(pair<float, float> a, pair< float, float> b){
-//     return a.first/a.second > b.first/b.second ;
-// }
 
 int main(){
     int n , m ;
